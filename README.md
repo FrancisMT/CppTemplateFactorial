@@ -1,2 +1,2 @@
 # CppTemplateFactorial
-An implementation of the factorial method using template metaprogramming.
+A simple implementation of the the factorial method with compile-time and a run-time methods.
